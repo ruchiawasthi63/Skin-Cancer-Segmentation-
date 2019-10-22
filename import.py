@@ -21,6 +21,6 @@ from scipy import ndimage
 from scipy import misc
 from skimage import exposure
 #for group normalization
-sys.path.insert(0, 'C:/Users/Kritagya Nayyar/Downloads/ML-DL Projects/Skin Cancer Paper/Keras-Group-Normalization-master/Keras-Group-Normalization-master')
+sys.path.insert(0, 'C:/Users/Ruchi Awasthi/Downloads/ML-DL Projects/Skin Cancer Paper/Keras-Group-Normalization-master/Keras-Group-Normalization-master')
 from group_norm import GroupNormalization
 
